@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Mr. Test Account"
+locale                   : "SriLanka"
+title                    : "Mr. Kuruparan "
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at MITESP Pvt.Ltd"
+name                     : &name "Mr. Kuruparan Shanmugalingam"
+description              : &description "Research scientist at Test University"
 url                      : https://kuruparan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuruparan.github.io"
@@ -77,33 +77,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr .Kuruparan Shanmugalingam"
-  avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
-  employer         : 
+  name             : "Mr. Kuruparan Shanmugalingam"
+  avatar           : "/images/IMG_0455.JPG"
+  bio              : "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
+  location         : "SriLanka"
+  employer         : "MITESP Pvt.Ltd"
   googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  email            : "kuruparan4@gmai.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "https://www.facebook.com/kuruparans"
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "https://github.com/kuruparan"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/kuruparan-shanmugalingam-95b921b2/"
   orcid            : "http://orcid.org/testaccount"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : "kuruparan4"
   vine             :
   weibo            :
   xing             :
