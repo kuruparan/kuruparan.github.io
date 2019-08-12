@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "SriLanka"
+title                    : "Mr"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Kuruparan Shanmugalingam"
+description              : &description "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
