@@ -1,0 +1,833 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:.5in;
+	text-indent:-.5in;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Cambria",serif;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:1.0in;
+	text-indent:-.5in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria",serif;
+	font-style:italic;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:1.5in;
+	text-indent:-.5in;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Cambria",serif;}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:2.0in;
+	text-indent:-.5in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri",sans-serif;}
+h5
+	{mso-style-link:"Heading 5 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:2.5in;
+	text-indent:-.5in;
+	font-size:13.0pt;
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+h6
+	{mso-style-link:"Heading 6 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:3.0in;
+	text-indent:-.5in;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"Heading 7 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:3.5in;
+	text-indent:-.5in;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"Heading 8 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:4.0in;
+	text-indent:-.5in;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"Heading 9 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:4.5in;
+	text-indent:-.5in;
+	font-size:11.0pt;
+	font-family:"Cambria",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Cambria",serif;
+	font-weight:bold;
+	font-style:italic;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-link:"Heading 5";
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;
+	font-style:italic;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-link:"Heading 6";
+	font-weight:bold;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-link:"Heading 7";
+	font-family:"Calibri",sans-serif;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-link:"Heading 8";
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-link:"Heading 9";
+	font-family:"Cambria",serif;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;}
+span.Strong1
+	{mso-style-name:Strong1;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:596.0pt 842.0pt;
+	margin:38.0pt 51.0pt 14.0pt 51.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:596.0pt 842.0pt;
+	margin:.5in 51.0pt 14.0pt 51.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:596.0pt 842.0pt;
+	margin:.5in 51.0pt 14.0pt 51.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='margin-top:.3pt;margin-right:15.65pt;
+margin-bottom:0in;margin-left:134.15pt;margin-bottom:.0001pt;text-align:center'><img
+width=128 height=165 src="kuruparan_CV_files/image001.jpg" align=left
+hspace=12><span style='font-size:28.0pt'>Kuruparan Shanmugalingam</span></p>
+
+<p class=MsoNormal align=center style='margin-top:.5pt;margin-right:92.35pt;
+margin-bottom:0in;margin-left:210.9pt;margin-bottom:.0001pt;text-align:center'><i><span
+style='font-size:8.0pt;color:#999999'>69 ,srinivasam lane ,kottady ,Jaffna
+40000,</span></i><i><span style='font-size:8.0pt;color:#999999'> </span></i></p>
+
+<p class=MsoNormal align=center style='margin-top:.5pt;margin-right:92.35pt;
+margin-bottom:0in;margin-left:210.9pt;margin-bottom:.0001pt;text-align:center'><i><span
+style='font-size:8.0pt;color:#999999'>Sri</span></i><i><span style='font-size:
+8.0pt;color:#999999'> Lanka.</span></i></p>
+
+<p class=MsoNormal align=center style='margin-top:4.25pt;margin-right:5.75pt;
+margin-bottom:0in;margin-left:124.35pt;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:8.0pt;color:#333333'>&#61707;</span><span style='font-size:
+8.0pt;color:#333333'>  </span><span style='font-size:8.0pt;color:#333333'>Mobile</span><span
+style='font-size:8.0pt;color:#333333'> - +94778314768   |   </span><a
+href="mailto:à%20kuruparan4@gmail.com%20%20%20|"><span style='font-size:8.0pt'>&#61664;</span><span
+style='font-size:8.0pt'> </span><span style='font-size:8.0pt'>kuruparan4@gmail.com</span><span
+style='font-size:8.0pt'>   |</span></a><span style='font-size:8.0pt;color:#333333'>  
+</span><span style='font-size:8.0pt;color:#333333'>&#61461;</span><span
+style='font-size:8.0pt;color:#333333'> </span><span style='font-size:8.0pt;
+color:#333333'>Residence</span><span style='font-size:8.0pt;color:#333333'> -021-222-8722  
+|</span><span style='font-size:8.0pt;color:#333333'> </span><a
+href="https://www.linkedin.com/in/kuruparan-shanmugalingam-95b921b2"><span
+style='font-size:8.0pt'>https://www.linkedin.com/in/kuruparan-shanmugalingam-95b921b2</span></a><span
+style='font-size:8.0pt;color:#333333'> |</span> <a
+href="https://github.com/kuruparan"><span style='font-size:8.0pt'>https://github.com/kuruparan</span></a><span
+style='font-size:8.0pt;color:#333333'> |</span> <span style='font-size:8.0pt;
+color:#333333'>http://developemyself.blogspot.com</span></p>
+
+<p class=MsoNormal style='line-height:10.0pt'><span style='font-size:11.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:7.65pt;
+margin-bottom:0in;margin-left:126.25pt;margin-bottom:.0001pt;text-align:center;
+line-height:105%'><span style='line-height:105%;color:#414141'>“As</span><span
+style='line-height:105%;color:#414141'> a young energetic, hardworking Undergraduate
+Student of Electronics and Telecommunication Engineering with a lot of inventive
+ideas and keen enthusiasm,  to work on Areas related to sensor fusion  &amp; Machine
+Learning, Deep Learning, IOT , Data Mining , NLP , RPA , Forecasting ,Computer Vision,
+Wireless &amp; mobile Communication , networking &amp;Security , Analog &amp; Digital
+IC design or related areas in Artificial Intelligence in IOT with a view to becoming
+an accomplished Data Scientist.”</span></p>
+
+<p class=MsoNormal style='margin-top:.05pt;line-height:6.0pt'><span
+style='font-size:6.5pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:3.3pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify;line-height:131%'><b><span
+style='font-size:16.0pt;line-height:131%;color:#333333'>Education</span></b><b><span
+style='font-size:16.0pt;line-height:131%;color:#333333'> <u>                                                                                    </u> </span><span
+style='color:#414141'>University</span><span style='color:#414141'> of Moratuwa                                                                                                                                          
+</span></b><span style='font-size:9.0pt;line-height:131%;color:#DC3521'>Sri</span><span
+style='font-size:9.0pt;line-height:131%;color:#DC3521'> Lanka </span><span
+style='font-size:8.0pt;line-height:131%;color:#5D5D5D'>BSC</span><span
+style='font-size:8.0pt;line-height:131%;color:#5D5D5D'> ENG HONS IN ELECTRONICS
+AND TELECOMMUNICATION ENGINEERING                                                                   
+</span><span style='font-size:8.0pt;line-height:131%;color:#5D5D5D'>Feb</span><span
+style='font-size:8.0pt;line-height:131%;color:#5D5D5D'> 2014 - Dec 2018</span><span
+style='font-size:8.0pt;line-height:131%;color:#5D5D5D'>                          
+      </span></p>
+
+<p class=MsoNormal style='margin-right:390.05pt;text-align:justify;line-height:
+10.0pt'><span style='color:#333333'>  <b>GPA -3.775 (Out of4.2 )    </b></span></p>
+
+<p class=MsoNormal style='margin-right:390.05pt;text-align:justify;line-height:
+10.0pt'><span style='color:#333333'>  Calculated that                  </span></p>
+
+<p class=MsoNormal style='margin-right:390.05pt;text-align:justify;line-height:
+10.0pt'><span style='color:#333333'>  GPA -3.75 (Out of 4
+)                      </span></p>
+
+<p class=MsoNormal style='line-height:10.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:4.2pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><b><span
+style='color:#414141'>Advanced Diploma in JAVA programming                                                                                                        </span></b><span
+style='font-size:9.0pt;color:#DC3521'>CSC,India</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:4.2pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><b><span
+style='color:#414141'>                                                                                                                                                                  
+               </span></b><span style='font-size:8.0pt;color:#5D5D5D'>Aug 2010</span></p>
+
+<p class=MsoNormal style='line-height:10.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:4.2pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><b><span
+style='color:#414141'>Jafnna Hindu College     &amp; Jaffna Hindu Primary                                                                                   
+</span></b><span style='font-size:9.0pt;color:#DC3521'>Jaffna ,Sri</span><span
+style='font-size:9.0pt;color:#DC3521'> Lanka</span></p>
+
+<p class=MsoNormal style='margin-top:3.55pt;margin-right:4.5pt;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:8.0pt;color:#5D5D5D'>PRIMARY</span><span style='font-size:
+8.0pt;color:#5D5D5D'> AND SECONDARY EDUCATION                                                                                                                                      
+</span><span style='font-size:8.0pt;color:#5D5D5D'>Jan</span><span
+style='font-size:8.0pt;color:#5D5D5D'> 2000- Aug 2013</span></p>
+
+<p class=MsoNormal style='margin-top:2.4pt;margin-right:230.85pt;margin-bottom:
+0in;margin-left:6.35pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:9.0pt;color:#333333'>•</span><span style='font-size:9.0pt;
+color:#333333'>   </span><span style='font-size:9.0pt;color:#333333'>Passed</span><span
+style='font-size:9.0pt;color:#333333'> GCE Ordinary Level Examination (2010) – 9
+‘A’ Grade Pass  (including English Lit, ICT, Commerce)            <b>District
+Rank 4</b>    </span></p>
+
+<p class=MsoNormal style='margin-top:.45pt;margin-right:296.4pt;margin-bottom:
+0in;margin-left:6.35pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:9.0pt;color:#333333'>•</span><span style='font-size:9.0pt;
+color:#333333'>   </span><span style='font-size:9.0pt;color:#333333'>Passed</span><span
+style='font-size:9.0pt;color:#333333'> GCE Advanced Level Examination (2012)</span></p>
+
+<p class=MsoNormal align=right style='margin-top:3.1pt;margin-right:400.35pt;
+margin-bottom:0in;margin-left:34.6pt;margin-bottom:.0001pt;text-align:right;
+text-indent:-28.25pt;line-height:11.0pt'><span style='color:#414141'>Combined</span><span
+style='color:#414141'> Maths   </span><span style='font-size:9.0pt;color:#333333;
+position:relative;top:-.5pt'>A </span><span style='color:#414141'>Physics</span><span
+style='color:#414141'>   </span><span style='font-size:9.0pt;color:#333333;
+position:relative;top:-.5pt'>A </span><span style='color:#414141'>Chemistry</span><span
+style='color:#414141'>   </span><span style='font-size:9.0pt;color:#333333;
+position:relative;top:-.5pt'>A</span></p>
+
+<p class=MsoNormal style='margin-left:49.7pt;line-height:11.0pt'><b><span
+style='color:#414141'>Z-score</span><span style='color:#414141'>   </span></b><b><span
+style='font-size:9.0pt;color:#333333;position:relative;top:-.5pt'>2.6668</span></b></p>
+
+<p class=MsoNormal style='margin-left:49.7pt;line-height:11.0pt'><span
+style='color:#414141'>District Rank 4</span></p>
+
+<p class=MsoNormal style='margin-left:47.35pt;line-height:11.0pt'><b><span
+style='color:#414141'>Island Rank 22</span></b></p>
+
+<p class=MsoNormal style='margin-top:2.4pt;margin-right:230.85pt;margin-bottom:
+0in;margin-left:6.35pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:9.0pt;color:#333333'>•</span><span style='font-size:9.0pt;
+color:#333333'>   </span><span style='font-size:9.0pt;color:#333333'>Passed</span><span
+style='font-size:9.0pt;color:#333333'> GCE Ordinary Level Examination (2014)  2<sup>nd</sup>
+Language     Sinhala– B  Grade Pass </span></p>
+
+<p class=MsoNormal style='line-height:9.0pt'><span style='font-size:9.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:5.5pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:16.0pt;color:#333333'>Experience</span></b><b><span
+style='font-size:16.0pt;color:#333333'> <u>                                                                                   </u></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:5.5pt;margin-bottom:0in;
+margin-left:5.7pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:16.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b>MILLENNIUM INFORMATION</b> <b>TECHNOLOGIES<span
+style='color:#414141'> (PVT)
+LIMITED                                                                                        </span></b><b><span
+style='color:#DC3521'>  </span></b><span style='color:#DC3521'>SriLanka</span><span
+style='color:#414141'> </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>RESEARCH</span><span
+style='color:#5D5D5D'> ENGINER</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>Feb.</span><span
+style='color:#5D5D5D'> 2019 -Present</span><b><span style='color:#414141'>                                                                                               
+</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#333333'>Building
+Artificial Intelligence  models  and Applying Deep learning and machine
+learning techniques for  Real Life Applications </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><br>
+<b><span style='color:black;background:white'>3rd International Summer School
+on Deep Learning</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'>Warsaw, Poland</p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>July 22-July
+26</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>Compressing
+Neural Nets , Multiresolution models , Deep learning in signal processing ,RVFL
+and extreme kernels Machines , Probabilistic and Bayesian learning on DBF , RBM
+, GANs , Adversial evasion and prevention ,etc.</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>INTERNATIONAL
+SUMMER SCHOOL OF  NATURAL LANGUAGE PROCESSING</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#DC3521'>SriLanka</span><span
+style='color:#414141'> </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>March
+11-March 24</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>Corpus
+Computation, Argument Mining ,Linguistics for NLP ,Deep learning for NLP
+,Sentiment Classification using Self Attention Transformers ,Morphological
+Analyzer ,Parser by rule based ,etc</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#414141'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>MIT-SUTD
+INTERNATIONAL RESEARCH CENTER</span><span style='color:#414141'>                                                                                                      
+</span></b><span style='color:#DC3521'>Singapore</span></p>
+
+<p class=MsoNormal style='margin-top:3.55pt;margin-right:0in;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>RESEARCH</span><span
+style='color:#5D5D5D'> INTERN                                                                                                                               
+                                             </span><span style='color:#5D5D5D'>July.</span><span
+style='color:#5D5D5D'> 2017 - Dec 2017</span></p>
+
+<p class=MsoNormal style='margin-top:2.4pt;margin-right:4.05pt;margin-bottom:
+0in;margin-left:14.3pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+-7.95pt;line-height:10.0pt'><span style='color:#333333'>   Successfully completed
+a projects titled </span><span style='color:#333333'>“Intrusion Detection and prevention”</span><span
+style='color:#333333'> ,” carpark localization using BLE and NBIOT ”, “Top View
+headcount camera using traditional signal processing way and  TensorFlow”
+,”hospital automotive sensor system and occupancy detection  system”
+,”Raspberry Pie Local broker Robust and duplication” </span><span
+style='color:#333333'>under</span><span style='color:#333333'> the guidance of </span><span
+style='color:#333333'>Prof. Yuen Chau &amp; Benny Ng Kaikiat </span></p>
+
+<p class=MsoNormal style='margin-top:2.4pt;margin-right:4.05pt;margin-bottom:
+0in;margin-left:14.3pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+-7.95pt;line-height:10.0pt'><span style='color:#333333'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:2.4pt;margin-right:4.05pt;margin-bottom:
+0in;margin-left:14.3pt;margin-bottom:.0001pt;text-indent:-7.95pt'><span
+style='color:#333333'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>RESEARCH
+INSTITUTE FOR BIO SYSTEM AND NANO DEVICES, UNIVERSITY OF
+HIROSHIMA                                         </span></b><b><span
+style='color:#DC3521'>  </span></b><span style='color:#DC3521'>Japan</span><span
+style='color:#414141'>  </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>RESEARCH</span><span
+style='color:#5D5D5D'> STUDENT                                                                                                                                                                          
+</span><span style='color:#5D5D5D'>July.</span><span style='color:#5D5D5D'> 2018
+-Aug 2018</span><b><span style='color:#414141'>                                                                
+                                 </span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#333333'>Successfully</span><span
+style='color:#333333'> Designed and Fabricated ,packaged hands-on experience in
+CMOS SI technology ICs ,VCO-ring oscillator characteristics are analyzed .</span><span
+style='color:#5D5D5D'> </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='font-size:9.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>SENZMATE
+IOT INTELLEGENCE (PVT) LIMITED- Collaboration with YIT                                                                                        </span></b><b><span
+style='color:#DC3521'>  </span></b><span style='color:#DC3521'>SriLanka</span><span
+style='color:#414141'> </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>ASSOCIATE
+RESEARCH</span><span style='color:#5D5D5D'> ENGINER</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>June.</span><span
+style='color:#5D5D5D'> 2015 -Dec2018</span><b><span style='color:#414141'>                                                                                                 
+</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#333333'>IOT
+hardware platform development and marketizing ,successfully launched the
+project DIA  </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#333333'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>TEACHER
+/ LECTURER, </span></b><span style='color:#DC3521'>SriLanka</span><span
+style='color:#414141'> </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>Self
+Employed Business </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>June.</span><span
+style='color:#5D5D5D'> 2015 -Present</span><b><span style='color:#414141'>                                                                                                
+</span></b></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#333333'>University
+Modules , Machine Learning ,Mathematics, Statistics and physics  for Advanced
+level and London AL </span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='color:#5D5D5D'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><span style='font-size:9.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='font-size:16.0pt;
+color:#333333'>ACHEIVEMENTS</span></b><b><span style='font-size:16.0pt;
+color:#333333'> <u>                                                                                    </u></span></b></p>
+
+</div>
+
+<span style='font-size:12.0pt;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection2></div>
+
+<span style='font-size:9.0pt;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection3>
+
+<p class=MsoNormal style='margin-top:2.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2011</span><span
+style='color:#5D5D5D'>      president Dinner and and award for G.C.E O/L
+results excellency </span></p>
+
+<p class=MsoNormal style='margin-top:2.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2012     
+Full Scholarship Indian award for Northern Province Quiz winners      </span></p>
+
+<p class=MsoNormal style='margin-top:2.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2013    
+ SriLanka Insurance Island first 25 rank holders awards          </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-2.55pt;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2014 
+     three-week training program in Developing Leadership Qualities and
+Positive Thinking conducted by Ministry of Higher   Education Sri Lanka in
+Minneriya ArmyBase</span><span style='font-size:9.0pt;color:#5D5D5D'>    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-2.55pt;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='font-size:9.0pt;
+color:#5D5D5D'>2019     ISSALE 2019 NLP summer International Symposium
+successful delegate         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-2.55pt;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='font-size:9.0pt;
+color:#5D5D5D'>2019     DeepLearn 2019 NLP International summer School
+successful delegate                                                          </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-2.55pt;margin-bottom:
+0in;margin-left:18.5pt;margin-bottom:.0001pt'><span style='font-size:9.0pt;
+color:#5D5D5D'>                                                 </span></p>
+
+<p class=MsoNormal style='margin-top:.7pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='font-size:16.0pt;
+color:#333333'>Projects</span></b><b><span style='font-size:16.0pt;color:#333333'>
+Completed <u>                                                                                    </u></span></b></p>
+
+<p class=MsoNormal style='margin-top:.45pt;line-height:8.0pt'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2019     
+<b>Wind forecasting with RNN,GRU,LSTM and RVFL benchmarks</b></span></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2019</span><span
+style='color:#5D5D5D'> <b>     One-Shot learning Facial Recognition </b></span><b><span
+style='color:#414141'> Attendance Marking</span></b></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2019
+<b>     Non-performing loan prediction based on economic and personal factors</b></span></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2019<b>     
+Corporate Email Classification using Deep Natural Language Processing</b></span></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2019     
+<b>Liveliness Detection &amp; Facial Recognition  System for Digital Onboarding</b></span><b><span
+style='color:#414141'>                  </span></b></p>
+
+<p class=MsoNormal style='margin-top:1.45pt;margin-right:0in;margin-bottom:
+0in;margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2018</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Harsh
+Environment wireless communication &amp; IC design                   @FYP
+&amp;External company project</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2018</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>NBIOT based
+dock less bicycle sharing system                                      @Mobitel
+NB-IOT hackathon</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2014</span><span
+style='color:#5D5D5D'>      <b>Smart </b></span><b><span style='color:#414141'>Agriculture
+and water controller                                                  @TadHack-2014</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2015</span><span
+style='color:#5D5D5D'>      <b>Smart </b></span><b><span style='color:#414141'>energy
+consumption meter and fault forecasting system                  @ YGC-2015</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Smart Oil
+Lamp</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2016</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Smart fire
+alarm detection system</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017     </span><b><span
+style='color:#414141'> BLE based advertising and  carpark Localization</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017     </span><b><span
+style='color:#414141'> Robust hospital management system and centralized broker
+using sensor fusion and BigData</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Motion
+detection using background subtraction , Kalman filtering and Hungarian
+algorithm</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>KLT</span><span
+style='color:#414141'> Feature Tracker &amp;Optica Flow</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.55pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2017</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>headcount
+detection in deep learning</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.4pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2016</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>UART IP
+development</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.4pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2016</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Processor</span><span
+style='color:#414141'> Implementation on FPGA for downsampling an image</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.4pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2018</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>CRC
+calculating SOC in vertex board</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2015</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Firefighting
+Robot in PIC microcontroller</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2016</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Wall
+following, Line following maze solver robot</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.2pt;margin-right:0in;margin-bottom:0in;
+margin-left:18.5pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>2016</span><span
+style='color:#5D5D5D'>      </span><b><span style='color:#414141'>Signal
+processing in MATLAB with various implementation of filters</span></b></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;line-height:14.0pt'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='font-size:16.0pt;
+color:#333333'>Extracurricular</span></b><b><span style='font-size:16.0pt;
+color:#333333'> Activity <u>                                                                                    </u></span></b></p>
+
+<p class=MsoNormal style='margin-top:.2pt;line-height:7.0pt'><span
+style='font-size:7.5pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>Northern
+Province Quiz Team </span><span style='color:#414141'>                                                                                                                                         </span></b></p>
+
+<p class=MsoNormal style='margin-top:2.65pt;margin-right:0in;margin-bottom:
+0in;margin-left:6.35pt;margin-bottom:.0001pt'><span style='color:#333333'>•</span><span
+style='color:#333333'>   Conducted Inter School Competitions with in northern
+province</span></p>
+
+<p class=MsoNormal style='margin-left:6.35pt;line-height:10.0pt'><span
+style='color:#333333'>•</span><span style='color:#333333'>   Winning Team Captain
+of Inter House Quiz Competition</span></p>
+
+<p class=MsoNormal style='margin-left:6.35pt;line-height:10.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>Active
+member and volunteer at Yarl IT HUB (YIT)</span></b></p>
+
+<p class=MsoNormal style='margin-left:6.35pt;line-height:10.0pt'><span
+style='color:#333333'>•</span><span style='color:#333333'>   mentored
+YIT-juniors innovation challenge</span></p>
+
+<p class=MsoNormal style='margin-top:.3pt;line-height:6.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>Tamil</span><span
+style='color:#414141'> Literary Association &amp; Debate Club                                                                                                                    
+</span></b></p>
+
+<p class=MsoNormal style='margin-top:3.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>MEMBER</span></p>
+
+<p class=MsoNormal style='margin-left:6.35pt;line-height:10.0pt'><span
+style='color:#333333'>•</span><span style='color:#333333'>   Semi Finalist in Inter
+School Debate Competition</span></p>
+
+<p class=MsoNormal style='margin-left:6.35pt;line-height:10.0pt'><span
+style='color:#333333'>•</span><span style='color:#333333'>   Organizing committee
+member in inter school competitions and cultural event.</span></p>
+
+<p class=MsoNormal style='margin-top:.3pt;line-height:6.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-top:3.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt'><b><span style='color:#414141'>Karate</span><span
+style='color:#414141'>      </span></b></p>
+
+<p class=MsoNormal style='margin-top:3.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>PURPLE
+BELT</span><b><span style='color:#414141'>                                                                                                                                               
+</span></b></p>
+
+<p class=MsoNormal style='margin-top:.3pt;line-height:6.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><b><span style='color:#414141'>Cricket
+</span><span style='color:#414141'>                                                                                                                                                  </span></b></p>
+
+<p class=MsoNormal style='margin-top:3.85pt;margin-right:0in;margin-bottom:
+0in;margin-left:5.7pt;margin-bottom:.0001pt'><span style='color:#5D5D5D'>YOUTHWING
+2013 BATCH TEAM</span></p>
+
+<p class=MsoNormal style='margin-top:.25pt;line-height:6.0pt'><span
+style='font-size:6.5pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='line-height:10.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-left:5.7pt'><a
+href="mailto:tharaka@ent.mrt.ac.lk%3E"><img border=0 width=390 height=140
+src="kuruparan_CV_files/image002.gif" align=left hspace=12 vspace=5
+alt="Dr.Tharaka Samarasinghe&#13;&#10;Department of Electronics and Telecommunication&#13;&#10;university of moratuwa&#13;&#10;B.Sc. Eng. (Moratuwa), Ph.D. (Melbourne) MIEEE&#13;&#10;Room	: EB223&#13;&#10;Extension	: 3323&#13;&#10;Email	: tharaka@ent.mrt.ac.lk&#13;&#13;&#10;Web	: www.ent.mrt.ac.lk/~tharaka&#13;&#13;&#10;&#13;&#10;&#13;&#10;"></a><a
+href="mailto:jayathu@ent.mrt.ac.lk"><img border=0 width=342 height=140
+src="kuruparan_CV_files/image003.gif" align=left hspace=12 vspace=5
+alt="Dr.Jayathu Samarawickrama&#13;&#10;Department of Electronics and Telecommunication university of moratuwa&#13;&#10;B.Sc. Eng. (Moratuwa), M.Sc. (Moratuwa), Ph.D. (UNIGE and IIT, Italy), MIEEE&#13;&#10;Extension	: 3324&#13;&#10;Email	: jayathu@ent.mrt.ac.lk&#13;&#13;&#10;Web	: www.ent.mrt.ac.lk/~jayathu&#13;&#13;&#10;&#13;&#10;&#13;&#10;	&#13;&#10;	&#13;&#10;	&#13;&#10;	&#13;&#10;&#13;&#10;&#13;&#10;"></a><b><span
+style='font-size:16.0pt;color:#333333'>Non-Related</span></b><b><span
+style='font-size:16.0pt;color:#333333'> Referees <u>                                                                                    </u></span></b></p>
+
+</div>
+
+</body>
+
+</html>
