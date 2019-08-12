@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mr. Test Account"
 title_separator          : "-"
 name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
+description              : &description "Research scientist at MITESP Pvt.Ltd"
 url                      : https://kuruparan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuruparan.github.io"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Mr .Kuruparan Shanmugalingam"
   avatar           : "profile.png"
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "Test, California"
