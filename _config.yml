@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "SriLanka"
-title                    : "Mr"
+title                    : "Mr.Kuruparan"
 title_separator          : "-"
 name                     : &name "Kuruparan Shanmugalingam"
 description              : &description "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kuruparan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuruparan.github.io"
-teaser                   : " /images/IMG_0455.jpg"
+teaser                   : "/images/IMG_0455.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
+  name             : "Kuruparan"
+  avatar           :  "/images/IMG_0455.jpg"
+  bio              : "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
+  location         : "SriLanka"
+  employer         : "MITESP Pvt.Ltd"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "kuruapran4@gmail.com
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ # uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  facebook         :"https://www.facebook.com/kuruparans"
   foursquare       :
-  github           : "academicpages"
+  github           : "kuruparan4"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/kuruparan-shanmugalingam-95b921b2/"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
