@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Kuruparan Shanmugalingam"
+  uri         : "https://kuruparan.github.io"
+  email       : "kuruparan4@gmail.com"
+  bio         : "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
+  avatar      : "images/IMG_0455.JPG"
+  twitter     : "kuruparan4"
+ #google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
