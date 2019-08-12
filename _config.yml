@@ -13,7 +13,7 @@ name                     : &name "Kuruparan Shanmugalingam"
 description              : &description "Kuruparan is a AI enthusiast conducting researches on NLP ,Times series Forecasting algorithms ,Computer Vision ,Data Science ,Statistical learning and Deep learning in Finance , believing that the Deep thrive in ML towards Marketing Innovation will create huge impact. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kuruparan.github.io"
 teaser                   : " /images/IMG_0455.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
