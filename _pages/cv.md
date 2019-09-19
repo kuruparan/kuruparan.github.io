@@ -47,16 +47,15 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*2019     Accepted paper  
+     *Corporate IT-support Help-desk process Hybrid-Automation Solution with Machine Learning Approach
+     *DICTA : International Conference on Digital Image Computing: Techniques and Applications
+         
+*2019     Accepted paper  
+     *Temperature Sending and Data Transmission Mechanism in Integrated Cirucits for Harsh Environment Applications
+     *IEEE ICECIE : International Conference on Electrical, Control And Instrumentation Engineering 
+
   
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Skills
 ======
