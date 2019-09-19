@@ -31,19 +31,10 @@ Work experience
   *Building Artificial Intelligence  models  and Applying Deep learning and machine learning techniques for  Real Life Applications 
 
 
-
-
-
-
-
-
-
-
 *MIT-SUTD INTERNATIONAL RESEARCH CENTER                                                                                                     *Singapore
     *RESEARCH INTERN                                                                                                                     
     *Successfully completed a projects titled “Intrusion Detection and prevention” ,” carpark localization using BLE and
 NBIOT ”, “Top View headcount camera using traditional signal processing way and  TensorFlow” ,”hospital automotive sensor system and occupancy detection  system” ,”Raspberry Pie Local broker Robust and duplication” under the guidance of Prof. Yuen Chau & Benny Ng Kaikiat 
-
 
 
 *SENZMATE IOT INTELLEGENCE (PVT) LIMITED- Collaboration with YIT                                                                         
@@ -70,11 +61,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
