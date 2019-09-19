@@ -39,9 +39,9 @@ Work experience
 
 
 
-*MIT-SUTD INTERNATIONAL RESEARCH CENTER                                                                                                    *Singapore
-    *RESEARCH INTERN                                                                                                                                                                             July. 2017 - Dec 2017
-Successfully completed a projects titled “Intrusion Detection and prevention” ,” carpark localization using BLE and
+*MIT-SUTD INTERNATIONAL RESEARCH CENTER                                                                                                     *Singapore
+    *RESEARCH INTERN                                                                                                                     
+    *Successfully completed a projects titled “Intrusion Detection and prevention” ,” carpark localization using BLE and
 NBIOT ”, “Top View headcount camera using traditional signal processing way and  TensorFlow” ,”hospital automotive sensor system and occupancy detection  system” ,”Raspberry Pie Local broker Robust and duplication” under the guidance of Prof. Yuen Chau & Benny Ng Kaikiat 
 
 
@@ -60,12 +60,9 @@ NBIOT ”, “Top View headcount camera using traditional signal processing way 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep learing , Machine Learning 
+* Data Mining , Predicitve Analysis
+* Programming , Algorothm Solving
 
 Publications
 ======
@@ -87,4 +84,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Minneriya Army Base Leardership Training by SriLankna Governmnet
+* New Delhi Leardership Colloboration Training by Indian Embassy
+* Prefect -Jaffna Hindu COllege
+* Treasurer -Science Club
