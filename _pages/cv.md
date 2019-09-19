@@ -25,15 +25,38 @@ SECONDARY EDUCATION
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED                                                                                         *SriLanka
+  *RESEARCH ENGINER
+  *Feb. 2019 -Present                                                                                                
+  *Building Artificial Intelligence  models  and Applying Deep learning and machine learning techniques for  Real Life Applications 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
+
+
+
+
+
+
+
+*MIT-SUTD INTERNATIONAL RESEARCH CENTER                                                                                                    *Singapore
+    *RESEARCH INTERN                                                                                                                                                                             July. 2017 - Dec 2017
+Successfully completed a projects titled “Intrusion Detection and prevention” ,” carpark localization using BLE and
+NBIOT ”, “Top View headcount camera using traditional signal processing way and  TensorFlow” ,”hospital automotive sensor system and occupancy detection  system” ,”Raspberry Pie Local broker Robust and duplication” under the guidance of Prof. Yuen Chau & Benny Ng Kaikiat 
+
+
+
+*SENZMATE IOT INTELLEGENCE (PVT) LIMITED- Collaboration with YIT                                                                         
+  *ASSOCIATE RESEARCH ENGINER
+  *June. 2015 - June 2017                                                                                                  
+  *IOT hardware platform development and marketizing ,successfully launched the project DIA  
+
+*TEACHER / LECTURER
+  *SriLanka 
+  *Self Employed Business 
+  *June. 2015 -Present                                                                                                 
+  *University Modules , Machine Learning ,Mathematics, Statistics and physics  for Advanced level and London AL 
+
   
 Skills
 ======
