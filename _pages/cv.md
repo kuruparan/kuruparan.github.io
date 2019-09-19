@@ -45,29 +45,3 @@ Work experience
   *June. 2015 -Present                                                                                                 
   *University Modules , Machine Learning ,Mathematics, Statistics and physics  for Advanced level and London AL 
   
-Publications
-======
-*2019     Accepted paper  
-     *Corporate IT-support Help-desk process Hybrid-Automation Solution with Machine Learning Approach
-     *DICTA : International Conference on Digital Image Computing: Techniques and Applications
-         
-*2019     Accepted paper  
-     *Temperature Sending and Data Transmission Mechanism in Integrated Cirucits for Harsh Environment Applications
-     *IEEE ICECIE : International Conference on Electrical, Control And Instrumentation Engineering 
-
-  
-  
-Skills
-======
-* Deep learing , Machine Learning 
-* Data Mining , Predicitve Analysis
-* Programming , Algorothm Solving
-
-
-Service and leadership
-======
-* Minneriya Army Base Leardership Training by SriLankna Governmnet
-* New Delhi Leardership Colloboration Training by Indian Embassy
-* Prefect -Jaffna Hindu COllege
-* Treasurer -Science Club
-
