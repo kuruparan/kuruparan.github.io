@@ -44,7 +44,19 @@ Work experience
   *Self Employed Business 
   *June. 2015 -Present                                                                                                 
   *University Modules , Machine Learning ,Mathematics, Statistics and physics  for Advanced level and London AL 
-
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
