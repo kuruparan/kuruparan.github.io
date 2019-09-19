@@ -1,10 +1,10 @@
 ---
-title: "Digital Signal Processing"
+title: "Deep learning "
 collection: teaching
-type: "Workshop"
-venue: "Personal Tutoring"
-date: 2015-01-01
-location: "Colombo, SriLanka"
+type: "Yarl IT Hub"
+venue: "Lecturing"
+date: 2019
+location: "Jaffna, SriLanka"
 ---
 
 
