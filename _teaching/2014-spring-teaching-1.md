@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Physics"
 collection: teaching
 type: "G.C.E Advanced Level Physics"
 
@@ -8,5 +8,4 @@ date: 2013-09-01
 location: "Janna, SriLanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
