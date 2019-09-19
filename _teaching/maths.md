@@ -1,9 +1,9 @@
 ---
-title: "Mathematics"
+title: "Mathematics behind Deep learning"
 collection: teaching
-type: "G.C.E Advanced Level Physics"
+type: "Lecutring"
 
-venue: "Jaffna Hindu College"
-date: 2013-09-01
-location: "Janna, SriLanka"
+venue: "Uki Coding School"
+date: 2019-09-01
+location: "Kilinochi, SriLanka"
 ---
