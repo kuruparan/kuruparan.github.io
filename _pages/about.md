@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Current Updates
+======
+
+Nov 17 2019 ------------Won SLASSCOM AI Innovation Award for Best Internal Process AI Product AutoPilot
+Nov 25 2019-------------Presented a Research Paper at Malaysia
+
 
 Intro
 ======
