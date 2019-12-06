@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Current Updates
+Recent Updates
 ======
 *Dec 5 2019 - Presented a Research Paper at DICTA 2019 ,Australia
 
