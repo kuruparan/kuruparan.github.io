@@ -1,6 +1,6 @@
 ---
-title: "Hiking"
-excerpt: "<br/><img src='13.jpg'>"
+title: "Micrsoft Azure Global AI Bootcamp"
+excerpt: "<br/><img src='mc2.jpg'>"
 collection: portfolio
 ---
 
