@@ -9,6 +9,9 @@ redirect_from:
 ---
 Recent Updates
 ======
+
+*Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
+
 *Dec 5 2019 - Presented a Research Paper at DICTA 2019 ,Australia
 
 *Nov 25 2019 - Presented a Research Paper at Malaysia
