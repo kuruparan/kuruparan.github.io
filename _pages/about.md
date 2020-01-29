@@ -10,6 +10,9 @@ redirect_from:
 Recent Updates
 ======
 
+
+*Jan 29 2020 - Submitted a Research Paper on recommender systems and score metering at IJCNN
+
 *Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
 
 *Dec 5 2019 - Presented a Research Paper at DICTA 2019 ,Australia
