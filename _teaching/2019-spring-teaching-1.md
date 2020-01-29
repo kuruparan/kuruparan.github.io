@@ -1,5 +1,3 @@
-
-
 ---
 title: "IOT and Machine Vision for Agricultire"
 collection: teaching
