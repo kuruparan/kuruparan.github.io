@@ -1,5 +1,5 @@
 ---
-title: "IOT and Machine Vision for Agricultire"
+title: "IOT and Machine Vision for Agriculture"
 collection: teaching
 type: "External Supervisor - Final year project Software Engeering"
 
