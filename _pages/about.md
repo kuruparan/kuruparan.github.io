@@ -10,8 +10,7 @@ redirect_from:
 Recent Updates
 ======
 
-
-*Jan 29 2020 - Submitted a Research Paper on recommender systems and score metering at IJCNN
+Mar 11 2020 - joined SMU as Research Engineer in DataScience
 
 *Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
 
@@ -33,11 +32,14 @@ skilled in feature engineering , modelling and business insights development via
                                                                     
 Work experience
 ======
-*RESEARCH ENGINER @ MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED ,SriLanka.  
 
-*RESEARCH INTERN  @ MIT-SUTD INTERNATIONAL RESEARCH CENTER ,Singapore    
+*RESEARCH ENGINER @ Singapore Management University, Singapore.  
 
-*ASSOCIATE RESEARCH ENGINER @ SENZMATE IOT INTELLEGENCE (PVT) LIMITED     
+*Former RESEARCH ENGINER @ MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED ,SriLanka.  
+
+*Former RESEARCH INTERN  @ MIT-SUTD INTERNATIONAL RESEARCH CENTER ,Singapore    
+
+*Former ASSOCIATE RESEARCH ENGINER @ SENZMATE IOT INTELLEGENCE (PVT) LIMITED     
 
 *Enterprener on Self Consultancy and  Teaching 
 
