@@ -10,13 +10,15 @@ redirect_from:
 Recent Updates
 ======
 
-Mar 11 2020 - joined SMU as Research Engineer in DataScience
+Aug 3 2020 - Delivered a Talk on Distribution Clustering and It'speciality in high dimensional clustering applications at MLDSN, Nepal.
+
+*Mar 11 2020 - joined SMU, Singaapore as Research Engineer in DataScience
 
 *Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
 
-*Dec 5 2019 - Presented a Research Paper at DICTA 2019 ,Australia
+*Dec 5 2019 - Presented a Research Paper on Help Desk Automation  Tiket handling with Machine leanring at DICTA 2019 ,Australia
 
-*Nov 25 2019 - Presented a Research Paper at Malaysia
+*Nov 25 2019 - Presented a Research Paper on IOT enhancement in high temperature semeconductor industry applications at Malaysia
 
 *Nov 17 2019 - Won SLASSCOM AI Innovation Award for Best Internal Process AI Product AutoPilot
 
