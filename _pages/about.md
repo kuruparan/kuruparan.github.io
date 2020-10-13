@@ -10,7 +10,7 @@ redirect_from:
 Recent Updates
 ======
 
-Sept 14 2020 - one paper got accepted to DICT 2020.
+Sept 14 2020 - one paper got accepted to DICTA2020.
 
 *Aug 3 2020 - Delivered a Talk on Distribution Clustering and It'speciality in high dimensional clustering applications at MLDSN, Nepal.
 
