@@ -37,9 +37,9 @@ skilled in feature engineering , modelling and business insights development via
 Work experience
 ======
 
-*RESEARCH ENGINER @ Singapore Management University, Singapore.  
+*RESEARCH ENGINEER @ Singapore Management University, Singapore.  
 
-*Former RESEARCH ENGINER @ MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED ,SriLanka.  
+*Former RESEARCH ENGINEER @ MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED ,SriLanka.  
 
 *Former RESEARCH INTERN  @ MIT-SUTD INTERNATIONAL RESEARCH CENTER ,Singapore    
 
