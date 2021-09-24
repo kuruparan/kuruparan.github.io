@@ -1,10 +1,10 @@
 ---
-title: "Data Science "
+title: "ComputerVision "
 collection: teaching
-type: "Uki Coding School"
-venue: "Lecturing"
-date: 2019-8-28
-location: "Kilinochi, SriLanka"
+type: "University of New SouthWales"
+venue: "Tutoring"
+date: 2021-2-1
+location: "Sydney, Autralia"
 ---
 
 
