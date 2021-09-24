@@ -9,6 +9,7 @@ redirect_from:
 ---
 Recent Updates
 ======
+Aug  11 2021 - Sucessfully defended first year review of PhD
 
 Sept 14 2020 - one paper got accepted to DICTA2020.
 
@@ -36,6 +37,9 @@ skilled in feature engineering , modelling and business insights development via
                                                                     
 Work experience
 ======
+*Casual Academic and Graduate Teaching Assistant @ UNSW, Australia
+
+*Senior DataScientist @ NCS (Pvt)ltd, Singapore.
 
 *RESEARCH ENGINEER @ Singapore Management University, Singapore.  
 
@@ -52,6 +56,9 @@ Work experience
 
 Education
 ======
+
+*University of New SouthWales, Australia                                                                                                  PhD in Computer Science and Engineering  
+
 *Cardiff Metropolitan University, UK                                                                                                      MASTERS BUSINESS ADMINISTRATION SPEALIZED IN BUSINESS ANALYTICS    
 
 *University of Moratuwa, Sri Lanka                                                                                                        BSC ENG HONS First Class IN ELECTRONICS AND TELECOMMUNICATION ENGINEERING                                                            
