@@ -9,7 +9,12 @@ redirect_from:
 ---
 Recent Updates
 ======
-Aug  11 2021 - Sucessfully defended first year review of PhD
+
+Aug 2022 - Sucesfully defended 2 nd year  review of PhD
+
+Jul 2022 - Presented a conference paper on Domain generalization on MRI image segmentation at MIDL, Switzerland.
+
+ Aug 2021 - Sucessfully defended first year review of PhD
 
 Sept 14 2020 - one paper got accepted to DICTA2020.
 
