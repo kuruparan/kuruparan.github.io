@@ -10,11 +10,14 @@ redirect_from:
 Recent Updates
 ======
 
+
+Apr 2023 - Presented a conference paper on  Urethra segmentation with Multiplanar-MRI  at cartagena, Colombia.
+
 Aug 2022 - Sucessfully defended 2 nd year  review of PhD
 
 Jul 2022 - Presented a conference paper on Domain generalization on MRI image segmentation at MIDL, Switzerland.
 
- Aug 2021 - Sucessfully defended first year review of PhD
+Aug 2021 - Sucessfully defended first year review of PhD
 
 Sept 14 2020 - one paper got accepted to DICTA2020.
 
