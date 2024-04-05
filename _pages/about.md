@@ -10,8 +10,11 @@ redirect_from:
 Recent Updates
 ======
 
+Oct 2023 - Presented a conference paper on  Multimodal and  Multiplanar-MRI  at MICCAI workshop MLMI  Vancouver, Canada.
 
-Apr 2023 - Presented a conference paper on  Urethra segmentation with Multiplanar-MRI  at cartagena, Colombia.
+Aug 2023 - Sucessfully defended final year  review of PhD
+
+Apr 2023 - Presented a conference paper on  Urethra segmentation with Multiplanar-MRI  at ISBI cartagena, Colombia.
 
 Aug 2022 - Sucessfully defended 2 nd year  review of PhD
 
