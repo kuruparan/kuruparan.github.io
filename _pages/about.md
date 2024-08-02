@@ -10,17 +10,19 @@ redirect_from:
 Recent Updates
 ======
 
+June 2024- Successfully submitted PhD Thesis
+
 Oct 2023 - Presented a conference paper on  Multimodal and  Multiplanar-MRI  at MICCAI workshop MLMI  Vancouver, Canada.
 
-Aug 2023 - Sucessfully defended final year  review of PhD
+Aug 2023 - Successfully defended final year  review of PhD
 
 Apr 2023 - Presented a conference paper on  Urethra segmentation with Multiplanar-MRI  at ISBI cartagena, Colombia.
 
-Aug 2022 - Sucessfully defended 2 nd year  review of PhD
+Aug 2022 - Successfully defended 2 nd year  review of PhD
 
 Jul 2022 - Presented a conference paper on Domain generalization on MRI image segmentation at MIDL, Switzerland.
 
-Aug 2021 - Sucessfully defended first year review of PhD
+Aug 2021 - Successfully defended first year review of PhD
 
 Sept 14 2020 - one paper got accepted to DICTA2020.
 
@@ -48,11 +50,13 @@ skilled in feature engineering , modelling and business insights development via
                                                                     
 Work experience
 ======
+*Postdoctoral Research Fellow @ UNSW, Australia
+
 *Casual Academic and Graduate Teaching Assistant @ UNSW, Australia
 
-*Senior DataScientist @ NCS (Pvt)ltd, Singapore.
+*Former DataScientist @ NCS (Pvt)ltd, Singapore.
 
-*RESEARCH ENGINEER @ Singapore Management University, Singapore.  
+*Former RESEARCH ENGINEER @ Singapore Management University, Singapore.  
 
 *Former RESEARCH ENGINEER @ MILLENNIUM INFORMATION TECHNOLOGIES (PVT) LIMITED ,SriLanka.  
 
