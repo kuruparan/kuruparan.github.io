@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning "
-collection: Lecturing
-type: " Department of Computer Engineering , University of Jaffna"
+title: "Neural Networks and Artificial Intelligence"
+collection: Tutoring
+type: " UNSW Sydney"
 venue: "Lecturing"
-date: 2019-11-02
-location: "Kilinochi, SriLanka"
+date: Since 2022
+location: "Australia"
 ---
 
