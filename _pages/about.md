@@ -10,6 +10,8 @@ redirect_from:
 Recent Updates
 ======
 
+June 2024- Started working as a Postdoctoral Research Fellow at UNSW Sydney.
+
 June 2024- Successfully submitted PhD Thesis
 
 Oct 2023 - Presented a conference paper on  Multimodal and  Multiplanar-MRI  at MICCAI workshop MLMI  Vancouver, Canada.
