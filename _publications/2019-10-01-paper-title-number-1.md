@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2019-12-02
 venue: 'DICTA 2019'
-paperurl: 'http://kuruparan.github.io/files/paper1.pdf'
+paperurl: ''
 
 ---
 This paper focuses the automation process of email classification NLP techniques
