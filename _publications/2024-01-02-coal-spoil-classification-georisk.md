@@ -1,7 +1,7 @@
 ---
 title: "Comparative analysis of traditional and transfer learning algorithms for coal spoil classification via close-range imagery"
 collection: publications
-permalink: /publications/coal-spoil-classification-georisk-2024/
+permalink: /publications/coal-spoil-classification-georisk/
 date: "2024-01-02"
 venue: "Georisk (Assessment and Management of Risk for Engineered Systems)"
 authors: "S Thiruchittampalam, Kuruparan Shanmugalingam, Bikram Banerjee, Nancy F. Glenn"
