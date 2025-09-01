@@ -49,7 +49,7 @@ AI scientist and builder focused on **NLP**, **time-series forecasting**, **comp
 - **Research Engineer** — Singapore Management University  
 - **Research Engineer** — MillenniumIT (LSEG), Sri Lanka  
 - **Research Intern** — MIT-SUTD International Design Centre, Singapore  
-- **Associate Research Engineer** — SenzMate IoT Intelligence, Sri Lanka  
+- **Associate Research Software Engineer** — SenzMate IoT Intelligence, Sri Lanka  
 - **Independent Consultant & Instructor** — Various  
 - **Teacher/Lecturer** — Sri Lanka
 
