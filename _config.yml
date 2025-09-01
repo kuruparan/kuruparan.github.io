@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Australia"
-title                    : "Mr. Kuruparan "
+title                    : "Dr. Kuruparan "
 title_separator          : "-"
-name                     : &name "Mr. Kuruparan Shanmugalingam"
-description              : &description "Postdoctoral research fellow at UNSW"
+name                     : &name "Dr. Kuruparan Shanmugalingam"
+description              : &description "Senior AI Scientist | Business Stretegist"
 url                      : https://kuruparan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuruparan.github.io"
