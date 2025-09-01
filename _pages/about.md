@@ -9,6 +9,9 @@ redirect_from:
 ---
 Recent Updates
 ======
+Mar 2025- Started working as a Senior Data/AI Scientist at FutureSecure.AI.
+
+Secured Australia's prestigeous AEA Ignite grant for AI research to Commercialisation.
 
 June 2024- Started working as a Postdoctoral Research Fellow at UNSW Sydney.
 
@@ -28,17 +31,17 @@ Aug 2021 - Successfully defended first year review of PhD
 
 Sept 14 2020 - one paper got accepted to DICTA2020.
 
-*Aug 3 2020 - Delivered a Talk on Distribution Clustering and It'speciality in high dimensional clustering applications at MLDSN, Nepal.
+Aug 3 2020 - Delivered a Talk on Distribution Clustering and It'speciality in high dimensional clustering applications at MLDSN, Nepal.
 
-*Mar 11 2020 - joined SMU, Singaapore as Research Engineer in DataScience
+Mar 11 2020 - joined SMU, Singaapore as Research Engineer in DataScience
 
-*Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
+Dec 14 2019 - Delivered Global AI Bootcamp session on Azure and DataScience at Microsoft SriLanka
 
-*Dec 5 2019 - Presented a Research Paper on Help Desk Automation  Tiket handling with Machine leanring at DICTA 2019 ,Australia
+Dec 5 2019 - Presented a Research Paper on Help Desk Automation  Tiket handling with Machine leanring at DICTA 2019 ,Australia
 
-*Nov 25 2019 - Presented a Research Paper on IOT enhancement in high temperature semeconductor industry applications at Malaysia
+Nov 25 2019 - Presented a Research Paper on IOT enhancement in high temperature semeconductor industry applications at Malaysia
 
-*Nov 17 2019 - Won SLASSCOM AI Innovation Award for Best Internal Process AI Product AutoPilot
+Nov 17 2019 - Won SLASSCOM AI Innovation Award for Best Internal Process AI Product AutoPilot
 
 
 Intro
