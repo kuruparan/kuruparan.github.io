@@ -12,7 +12,8 @@ redirect_from:
 ## Recent Updates
 
 - **Mar 2025** — Started as **Senior Data/AI Scientist** at **FutureSecure.AI**.  
-- **2024** — Secured Australia’s **prestigious AEA Ignite** grant for **AI research to commercialisation**.  
+- **2024** — Secured Australia’s **prestigious AEA Ignite** grant for **AI research to commercialisation**.
+- **Jan 2025** — Research paper on Mining automation with deeplearning is accepted at IGARSS2025.
 - **Jun 2024** — Began as **Postdoctoral Research Fellow** at **UNSW Sydney**.  
 - **Jun 2024** — **Submitted PhD thesis** (UNSW).  
 - **Oct 2023** — Presented paper on **Multimodal & Multiplanar MRI** at **MLMI workshop (MICCAI), Vancouver**.  
