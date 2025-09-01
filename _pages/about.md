@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kuruparan Shanmugalingam"
+title: "Dr. Kuruparan Shanmugalingam"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
