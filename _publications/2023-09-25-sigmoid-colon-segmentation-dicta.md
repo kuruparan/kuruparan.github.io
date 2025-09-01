@@ -1,7 +1,7 @@
 ---
 title: "Attention and Pooling based Sigmoid Colon Segmentation in 3D CT images"
 collection: publications
-permalink: /publications/sigmoid-colon-segmentation-dicta-2023/
+permalink: /publications/sigmoid-colon-segmentation-dicta/
 date: "2023-09-25"
 venue: "DICTA 2023"
 authors: "Md Akizur Rahman, Sonit Singh, Kuruparan Shanmugalingam, Sankaran Iyer, Alan Blair, Praveen Ravindran, Arcot Sowmya"
