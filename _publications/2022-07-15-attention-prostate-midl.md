@@ -2,7 +2,7 @@
 title: "Attention guided deep supervision model for prostate segmentation in multisite heterogeneous MRI data"
 collection: publications
 permalink: /publications/prostate-segmentation-midl-2022/
-date: 2022-01-01
+date: :2022-01-01"
 venue: "MIDL 2022"
 authors: "Kuruparan Shanmugalingam, Arcot Sowmya, Daniel Moses, Erik Meijering"
 paperurl: ""
